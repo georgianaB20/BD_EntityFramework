@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinerva.Data", "Cinerva.Data\Cinerva.Data.csproj", "{9B0A8E43-608B-480B-8D0A-78A7683DD6B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinerva.TestConsole", "Cinerva.TestConsole\Cinerva.TestConsole.csproj", "{CE6503B5-B8E4-4922-84D9-5654553A374F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B0A8E43-608B-480B-8D0A-78A7683DD6B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B0A8E43-608B-480B-8D0A-78A7683DD6B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B0A8E43-608B-480B-8D0A-78A7683DD6B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B0A8E43-608B-480B-8D0A-78A7683DD6B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE6503B5-B8E4-4922-84D9-5654553A374F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE6503B5-B8E4-4922-84D9-5654553A374F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE6503B5-B8E4-4922-84D9-5654553A374F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE6503B5-B8E4-4922-84D9-5654553A374F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {556524CD-AB8B-4825-8678-BBCBDA98C330}
+	EndGlobalSection
+EndGlobal

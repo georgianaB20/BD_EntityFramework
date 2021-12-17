@@ -1,0 +1,12 @@
+C:\Users\georgiana.boghiu\source\repos\Cinerva\Cinerva.Data\bin\Debug\net5.0\Cinerva.Data.deps.json
+C:\Users\georgiana.boghiu\source\repos\Cinerva\Cinerva.Data\bin\Debug\net5.0\Cinerva.Data.dll
+C:\Users\georgiana.boghiu\source\repos\Cinerva\Cinerva.Data\bin\Debug\net5.0\ref\Cinerva.Data.dll
+C:\Users\georgiana.boghiu\source\repos\Cinerva\Cinerva.Data\bin\Debug\net5.0\Cinerva.Data.pdb
+C:\Users\georgiana.boghiu\source\repos\Cinerva\Cinerva.Data\obj\Debug\net5.0\Cinerva.Data.csproj.AssemblyReference.cache
+C:\Users\georgiana.boghiu\source\repos\Cinerva\Cinerva.Data\obj\Debug\net5.0\Cinerva.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georgiana.boghiu\source\repos\Cinerva\Cinerva.Data\obj\Debug\net5.0\Cinerva.Data.AssemblyInfoInputs.cache
+C:\Users\georgiana.boghiu\source\repos\Cinerva\Cinerva.Data\obj\Debug\net5.0\Cinerva.Data.AssemblyInfo.cs
+C:\Users\georgiana.boghiu\source\repos\Cinerva\Cinerva.Data\obj\Debug\net5.0\Cinerva.Data.csproj.CoreCompileInputs.cache
+C:\Users\georgiana.boghiu\source\repos\Cinerva\Cinerva.Data\obj\Debug\net5.0\Cinerva.Data.dll
+C:\Users\georgiana.boghiu\source\repos\Cinerva\Cinerva.Data\obj\Debug\net5.0\ref\Cinerva.Data.dll
+C:\Users\georgiana.boghiu\source\repos\Cinerva\Cinerva.Data\obj\Debug\net5.0\Cinerva.Data.pdb
